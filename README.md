@@ -18,6 +18,7 @@
 
 
 <h2>📚 Skills</h2>
+<div align="center">
 <table>
   <tr>
     <th>Languages & Frameworks</th>
@@ -70,7 +71,7 @@
     <td></td>
   </tr>
 </table>
-
+</div>
 <h2>🎯 Outside of Work:</h2>
 <p>When I'm not coding or designing, you'll find me challenging myself at the gym, cruising the streets on my bobber, or enjoying live music at concerts. I’m always on the lookout for new adventures and ways to push boundaries in both life and digital creativity.</p>
 
